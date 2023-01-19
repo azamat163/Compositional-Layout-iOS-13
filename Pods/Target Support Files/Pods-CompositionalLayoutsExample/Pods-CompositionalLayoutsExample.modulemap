@@ -1,0 +1,6 @@
+framework module Pods_CompositionalLayoutsExample {
+  umbrella header "Pods-CompositionalLayoutsExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
